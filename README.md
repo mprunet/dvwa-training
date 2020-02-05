@@ -10,5 +10,5 @@ docker run --rm -it safepic/dvwa-training
 
 __Login__
 
-Username: admin
+Username: admin  
 Password: password
